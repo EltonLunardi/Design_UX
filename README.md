@@ -1,2 +1,2 @@
 # Design_UX
-Protótipo feito para UFU, usando conceitos de UX
+Protótipo para reemodelação e novo design do UFUMobile, utilizando conceitos de design e UX na disciplina Interação Humano-Computador
